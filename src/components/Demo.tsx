@@ -135,7 +135,7 @@ Always:
         },
         voice: {
           provider: "11labs",
-          voiceId: "LrLmdJKFulHhIm3zTngO"
+          voiceId: "hmMWXCj9K7N5mCPcRkfC"
         },
         name: "Jones Gas Services Assistant",
       });
